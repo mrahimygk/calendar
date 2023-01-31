@@ -20,7 +20,4 @@ A full loop around the sun takes 365.242190 days, so we need to add 1 day as lea
 Earth is slowing millennia by millennia, so the calculation of the leap day can be different for future humans or martians who are gonna use this.
 We just add the day to our vacation months until is becomes trivial for a century-long. If we add it to Tectum, it works a a padding day for us to start October on Automn Equinox, not sooner.
 
-![image](https://user-images.githubusercontent.com/12912495/215765765-d4566009-1d5e-4d8a-bc00-ff3b47184564.png)
-
-
 ![The Full-year calendar](https://raw.githubusercontent.com/mrahimygk/calendar/master/calendar.png)
