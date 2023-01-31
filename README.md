@@ -7,9 +7,8 @@ But we need some culture-neutral names for them so that people can easily refer 
 People would rest on 5th and 6th day of each week, and work from 1st to 4th.
 
 ## Months
-All months have equal days, 30, no more an no less.
+All months have equal days, 30, no more and no less. Each month would have 5 weeks as explained above.
 Names are just samples and do not represent current gregorian calendar which is used by humans on earth.
-Each month would have 5 weeks as explained above.
 
 The months “Natura” and “Tectum” are bonus and no one has to work on them, but essential workers like medical staff and firefighters should get paid. 
 They will be paid 1 full week (1/6 of monthly payment) as a gift, tax-free. The gift should not be mentioned in their annual salary or as their prize.
