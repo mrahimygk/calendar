@@ -1,5 +1,6 @@
 # calendar
 A calendar which is divided by math-related logic
+![The Full-year calendar](https://raw.githubusercontent.com/mrahimygk/calendar/master/calendar.png)
 
 ## Weeks
 We have six days per week, without special names. 
@@ -18,5 +19,3 @@ Natura and Tectum are here as a padding for us to start the next season's months
 A full loop around the sun takes 365.242190 days, so we need to add 1 day as leap day. 
 Earth is slowing millennia by millennia, so the calculation of the leap day can be different for future humans or martians who are gonna use this.
 We just add the day to our vacation months until is becomes trivial for a century-long. If we add it to Tectum, it works a a padding day for us to start October on Automn Equinox, not sooner.
-
-![The Full-year calendar](https://raw.githubusercontent.com/mrahimygk/calendar/master/calendar.png)
